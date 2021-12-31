@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first web develeopment project. It's a simple website with three different recipes describing some savoury recipes. I am applying basic html concepts and hoping to practice coding using html.
